@@ -4,4 +4,4 @@ This is for my git repository training so it doesn't contain any other code in i
 
 ### 🧭 This page has the following structure of the project where the user will be navigated after login.
 ## Screenshot 
-![Event Management](./assets/one.png)
+![EventMangement Dashboard](./assets/UserDashboardEventManagement.png)
